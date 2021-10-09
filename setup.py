@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup_args = dict(
     name = 'justanunsuspectingmodule',
-    version = '0.2',
+    version = '0.3',
     description='Class with a module for lab',
     license='MIT',
     packages=find_packages(),
