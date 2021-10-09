@@ -1,1 +1,1 @@
-from . import model
+from justanunsuspectingmodule.model_class import model
